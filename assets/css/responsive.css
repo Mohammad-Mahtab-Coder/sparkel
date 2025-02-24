@@ -1,0 +1,1008 @@
+@media screen and (max-width: 1169px) {
+
+    .container,
+    .f-container {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    .hdrdetail {
+        font-size: 14px;
+    }
+
+    .hdbtn {
+        width: 49.7%;
+    }
+
+    .header-info-box {
+        width: 31.3%;
+        padding: 0px 5px;
+        padding-left: 45px;
+    }
+
+    .header-info-box:nth-child(3) {
+        margin-right: 0;
+    }
+
+    .slidecaption {
+        width: 70%;
+        padding: 0 80px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .slidecaption>h2 {
+        line-height: 47px;
+    }
+
+    .esc-cnimg-cont {
+        padding-right: 0;
+    }
+
+    .cfd-arrow-cont {
+        display: none;
+    }
+
+    .team-mem-sbc-cout {
+        width: 254.75px;
+    }
+
+    .team-mem-card-img {
+        width: 254.75px;
+    }
+
+
+    .about-container-content,
+    .blog-container-content,
+    .contact-container-content {
+        margin: auto;
+        padding: 0 20px;
+    }
+}
+
+
+@media screen and (max-width: 1024px) {
+    .hdbtn {
+        width: 42.3%;
+    }
+
+    .ec-section,
+    .best_Cleaner-section,
+    .howwork-section,
+    .service-section,
+    .best_offer-section {
+        padding: 60px 15px;
+    }
+
+    .ec-sec-card {
+        width: 50%;
+    }
+
+    .ec-section2 {
+        padding: 60px 15px 40px;
+    }
+
+    .es-con-last {
+        flex-wrap: wrap;
+    }
+
+    .es-last-content {
+        width: 100%;
+        text-align: left;
+    }
+
+    .esc-cont-in {
+        padding-left: 0;
+    }
+
+    .esc-cin-h2,
+    .ec-sec-fre-h2,
+    .csec-in-cont-h2,
+    .cfdback-ic-h2,
+    .bfsec-ctin-h2,
+    .team-mem-cont-h2,
+    .advan-sc-h2,
+    .prici-scti-h2,
+    .howwork-sci-h2,
+    .b-offer-cci-h3 {
+        margin-bottom: 15px;
+    }
+
+    .esc-cn-h2,
+    .csec-icnt-h2 {
+        padding: 0;
+        font-size: 32px;
+    }
+
+    .esc-cn-img-cont1,
+    .esc-cn-img-cont2 {
+        width: 100%;
+    }
+
+    .esc-cnimg-cont,
+    .esc-cnimg-cont2,
+    .boffer-cbtn {
+        justify-content: flex-start;
+    }
+
+    .esc-cn-fig {
+        width: 22%;
+    }
+
+    .ec-section3,
+    .client-feedback-section,
+    .benefits-section,
+    .team-member-section,
+    .advantages-section,
+    .pricing-section {
+        padding: 40px 15px;
+    }
+
+    .ec-sc-fre-h2 {
+        padding: 0;
+        font-size: 35px;
+    }
+
+    .enfre-card-container,
+    .boffer-cci-btn,
+    .boffer-cci-call {
+        width: 50%;
+    }
+
+    .choose-section {
+        padding: 80px 15px 40px;
+    }
+
+    .choosec-tcont-fimg {
+        left: 0;
+    }
+
+    .cfdbk-ic-h2,
+    .bfsec-ctn-h2,
+    .team-m-cont-h2 {
+        font-size: 32px;
+    }
+
+    .cfd-slide-cont {
+        padding-left: 25px;
+    }
+
+    .cfd-slide-scontent::before {
+        bottom: 30px;
+    }
+
+    .bfse-ctin {
+        padding-left: 30px;
+    }
+
+    .bfsec-cin-img {
+        text-align: left;
+        width: 80%;
+        overflow: hidden;
+        border-radius: 15px;
+    }
+
+    .bfsec-cn-img {
+        text-align: left;
+        margin-top: -200px;
+    }
+
+    .bfsec-cn-img>img {
+        margin-left: 70px;
+    }
+
+    .team-m-cont-h2 {
+        padding-right: 0;
+    }
+
+    .team-mem-sbc-cout {
+        width: 218.5px;
+    }
+
+    .team-mem-card-img {
+        width: 218.5px;
+    }
+
+    .advan-sec-cntin {
+        padding: 0 0 0 15px;
+    }
+
+    .adva-sc-h2 {
+        font-size: 24px;
+    }
+
+    .advan-sec-ctin {
+        padding: 0;
+        overflow: hidden;
+        width: 490px;
+    }
+
+    .advan_img {
+        width: 490px;
+    }
+
+    .adva-cs-mcard-in {
+        margin: 5px;
+        padding: 10px;
+    }
+
+    .adva-mcard-h3,
+    .prici-card-c-p {
+        font-size: 16px;
+    }
+
+    .video-section {
+        padding: 80px 15px;
+    }
+
+    .play-img-cont,
+    .pricing-sctin-in,
+    .best_csin-h2,
+    .boffer-cbtn,
+    .boffer-ccall,
+    .esc-cn-p {
+        padding: 0;
+    }
+
+    .video-s-h2 {
+        padding: 0 100px;
+        font-size: 30px;
+    }
+
+    .pricing-sec-cont-in {
+        width: 60%;
+    }
+
+    .pricing-scnt-in {
+        padding-right: 15px;
+    }
+
+    .prici-scnt {
+        margin: 5px 5px 80px;
+        padding: 15px;
+    }
+
+    .pric-scnt {
+        margin: 40px 5px 5px;
+        padding: 10px 10px 40px;
+    }
+
+    .prici-h2,
+    .bccall-p {
+        font-size: 20px;
+    }
+
+    .prici-btn,
+    .pric-btn {
+        font-size: 16px;
+        padding: 18px 15px;
+    }
+
+    .pricing-sec-cntin {
+        width: 40%;
+    }
+
+    .pric-sct-h2 {
+        padding: 0;
+        font-size: 24px;
+    }
+
+    .prici-card-c-h2 {
+        font-size: 18px;
+    }
+
+    .hwwork-sci-h2 {
+        font-size: 38px;
+        padding: 0;
+    }
+
+    .howwork-scrd-in {
+        margin: 5px;
+    }
+
+    .service-scrd-cont-in {
+        margin: 10px;
+    }
+
+    .b-offer-cc-in {
+        padding: 0 20px 0 0;
+    }
+
+    .b-off-cci-h3 {
+        font-size: 25px;
+        padding: 0;
+    }
+
+    .bcbtn-a {
+        padding: 20px 35px 20px 25px;
+    }
+
+    .bcbtn-cus {
+        display: block;
+        width: 100%;
+    }
+}
+
+
+@media screen and (max-width: 980px) {
+    .hdrdetail {
+        justify-content: center;
+    }
+
+    .hdbtn {
+        width: auto;
+    }
+
+    .logo,
+    .header-contact-info {
+        width: 100%;
+    }
+
+    .head-area {
+        padding: 15px 0;
+    }
+
+    .logo {
+        text-align: center;
+        top: 0;
+        padding-top: 5px;
+        padding-bottom: 20px;
+    }
+
+    .header-info-box {
+        padding-left: 40px;
+    }
+
+    .header-info-box>i {
+        font-size: 25px;
+        color: #ffb400;
+    }
+
+    .head-nav-in {
+        border-radius: 0;
+        bottom: 0;
+        padding-left: 0;
+    }
+
+    .hnv-cont {
+        width: 100%;
+        text-align: left;
+        padding: 1px 0;
+    }
+
+    .hul-list {
+        margin-top: 0;
+        position: absolute;
+        flex-direction: column;
+        max-width: 100%;
+        top: 100%;
+        left: auto;
+        right: 0;
+        width: 100%;
+        z-index: 999;
+        margin-right: 0;
+        background-color: #103195;
+        border-top: 1px solid rgba(0, 0, 0, .1);
+        visibility: hidden;
+        transform: scaleY(0);
+        transition: 0.5s;
+    }
+
+    #hamburger {
+        display: flex;
+        right: 35px;
+    }
+
+    .hul-list>li {
+        padding: 12px 15px;
+        border-bottom: 1px solid rgba(0, 0, 0, .1);
+        display: block;
+    }
+
+    .dropdown-i {
+        position: absolute;
+        top: 0;
+        right: 0;
+        z-index: 10;
+        width: 45px;
+        height: 45px;
+        line-height: 50px;
+        padding: 0;
+    }
+
+    .sub-menu {
+        box-shadow: none;
+        position: relative;
+        width: 100%;
+        top: 0;
+        left: 0;
+        margin-bottom: 0;
+    }
+
+    .hd-area-search {
+        position: relative;
+        text-align: left;
+        border-left: none;
+        width: 50%;
+    }
+
+    .hd-search-bar {
+        left: 10px;
+    }
+
+    .slidecaption {
+        width: 60%;
+        padding: 0 20px;
+    }
+
+    .es-cont-in::before {
+        left: -10px;
+        bottom: 250px;
+    }
+
+    .esc-imback {
+        height: 488px;
+        width: 435px;
+    }
+
+    .es-con-last {
+        width: 90%;
+    }
+
+    .es-last-content {
+        width: 75%;
+        text-align: center;
+    }
+
+    .chtnt-fimg {
+        width: 375px;
+    }
+
+    .cfd-slide-scontent {
+        padding: 10px;
+    }
+
+    .cfd-slide-scontent::before {
+        bottom: 85px;
+    }
+
+    .cfd-scc-p {
+        margin-bottom: 10px;
+    }
+
+    .bfsec-cimage {
+        width: 382px;
+    }
+
+    .service-scrd-c-fig>img {
+        width: 62px;
+    }
+
+    .foot-cont-info-in {
+        padding: 70px 0 0;
+    }
+
+    .foot-cnt-col1,
+    .foot-cnt-col2,
+    .foot-cnt-col3,
+    .foot-cnt-col4 {
+        width: 46%;
+        min-height: 300px;
+    }
+}
+
+@media screen and (max-width: 820px) {
+
+    .esc-imback {
+        width: 362px;
+        height: auto;
+    }
+
+    .es-cont-in::before {
+        bottom: 200px;
+    }
+
+    .csec-ul-li {
+        display: flex;
+        align-items: center;
+    }
+
+    .chtnt-fimg {
+        width: 310px;
+    }
+
+    .chtnt-fimg2 {
+        width: 345px;
+    }
+
+    .cfdback-in-cont {
+        padding: 0;
+    }
+
+    .cfd-slide-fc {
+        height: auto;
+    }
+
+    .cfd-slide-scontent::before {
+        bottom: 30px;
+    }
+
+    .bfsec-cimage {
+        width: 310px;
+    }
+
+    .team-mem-card-img {
+        width: 184.5px;
+    }
+
+    .team-mem-sbc-cout {
+        width: 184.5px;
+        height: 270px;
+    }
+
+    .team-mem-detail {
+        line-height: 18px;
+    }
+
+    .advan_img {
+        width: 390px;
+    }
+
+    .adva-mcard-img {
+        width: 110px !important;
+        height: 57px !important;
+    }
+
+    .service-scrd-c-fig>img {
+        width: 50px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .container,
+    .head-nav-in,
+    .f-container {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .hdrtop-info {
+        width: 100%;
+        padding: 0;
+        text-align: center;
+    }
+
+    .hdrtop-info>a {
+        width: 30px;
+        line-height: 40px;
+    }
+
+    .hdrtop-info:nth-child(2) {
+        padding-left: 0;
+    }
+
+    .header-contact-info {
+        flex-direction: column;
+    }
+
+    .header-info-box>i {
+        position: absolute;
+        top: 25px;
+    }
+
+    .header-info-box {
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-bottom: 1px solid rgb(228, 229, 234);
+        border-right: none;
+    }
+
+    .header-info-box:nth-child(3) {
+        border-bottom: none;
+    }
+
+    .slidecaption {
+        width: 90%;
+        padding: 0 20px;
+    }
+
+    .slidecaption>h2 {
+        line-height: 22px;
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+
+    .slidecaption>p {
+        margin-bottom: 5px;
+        line-height: 20px;
+        font-size: 15px;
+    }
+
+    .slidermorebtn {
+        font-size: 12px;
+        padding: 5px 20px;
+    }
+
+    .ec-section,
+    .choose-section,
+    .best_Cleaner-section,
+    .howwork-section,
+    .service-section,
+    .best_offer-section {
+        padding: 40px 15px;
+    }
+
+    .ec-sec-card,
+    .es-cont-in,
+    .es-cont-content,
+    .es-last-content,
+    .enfre-card-container,
+    .cs-cont-in,
+    .client-fdback-sec-in,
+    .client-fdback-slider,
+    .cfd-slide-fc,
+    .cfd-slide-scontent,
+    .bfsec-cont-in,
+    .team-mem-st-content,
+    .team-mem-st-btn,
+    .team-mem-sb-card,
+    .advantages-sec-cont-in,
+    .advan-sec-ctin,
+    .pricing-sec-cont-in,
+    .pricing-sec-cntin,
+    .prici-card-content,
+    .howwork-scard,
+    .service-sec-card-cont,
+    .service-scrd-c-fig,
+    .service-scrd-c-content,
+    .b-offer-content-cont,
+    .b-offer-img-cont,
+    .boffer-cci-btn,
+    .boffer-cci-call {
+        width: 100%;
+    }
+
+    .es-cont-content,
+    .esc-img-back,
+    .choosec-tcont-simg,
+    .team-mem-st-content,
+    .team-mem-st-btn,
+    .adva-mcard-h3,
+    .advan-sec-ctin,
+    .pricing-sctin-in,
+    .prici-card-content,
+    .service-scrd-c-fig,
+    .service-scrd-c-content,
+    .fccr {
+        text-align: center;
+    }
+
+    .ec-section2 {
+        padding: 120px 15px 40px;
+    }
+
+    .es-conin {
+        padding: 0;
+    }
+
+    .esc-img-cont {
+        top: -10%;
+        left: 6%;
+    }
+
+    .esc-imback {
+        width: 450px;
+        height: auto;
+    }
+
+    .esc-cn-h2,
+    .ec-sc-fre-h2,
+    .hwwork-sci-h2,
+    .team-m-cont-h2 {
+        font-size: 24px;
+    }
+
+    .esc-cnimg-cont,
+    .esc-cnimg-cont2,
+    .prici-card-cont,
+    .pric-card-cont,
+    .best_clean-contact,
+    .service-scrd-cont-in,
+    .b-offer-cci-btn-cont,
+    .boffer-ccall,
+    .fccr {
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .esc-cn-fig {
+        margin-right: 0;
+    }
+
+    .csec-icnt-h2,
+    .bfsec-ctn-h2,
+    .best_csin-h2 {
+        font-size: 28px;
+    }
+
+    .choosec-tcont-fc {
+        top: 30px;
+        width: 145px !important;
+        height: 145px !important;
+        left: 50px;
+    }
+
+    .choosec-tcont-fimg {
+        position: static !important;
+        width: 100%;
+        text-align: center;
+    }
+
+    .chtnt-fimg {
+        width: 380px;
+    }
+
+    .cfdbk-ic-h2 {
+        font-size: 30px;
+        padding-bottom: 0;
+    }
+
+    .cfd-slide-cont,
+    .advan-sec-cntin {
+        padding-left: 0;
+        padding-top: 40px;
+    }
+
+    .cfd-slide-scontent {
+        padding: 15px;
+    }
+
+    .bfsec-cin-img {
+        text-align: center;
+        width: auto;
+        overflow: hidden;
+        border-radius: unset;
+    }
+
+    .bfsec-cn-img {
+        margin-left: 0;
+    }
+
+    .bfsec-cimage {
+        width: 380px;
+    }
+
+    .bfse-ctin,
+    .pricing-sctin-in,
+    .foot-cnt-c1-h5,
+    .foot-cnt-c2-h5,
+    .foot-cnt-c3-h5,
+    .foot-cnt-c4-h5 {
+        padding: 40px 0 0;
+    }
+
+    .team-mst-btn-cont {
+        justify-content: center;
+        padding-top: 22px;
+    }
+
+    .team-mem-sb-card {
+        padding: 5px;
+        margin-bottom: 15px;
+    }
+
+    .team-mem-sbc-cout {
+        width: 270px;
+        height: 362px;
+    }
+
+    .team-mem-card-img {
+        width: 270px;
+    }
+
+    .team-mem-detail {
+        line-height: 20px;
+    }
+
+    .advan_img {
+        width: 490px;
+    }
+
+    .adva-sc-h2 {
+        font-size: 22px;
+    }
+
+    .adva-cs-mcard-in {
+        padding: 20px 0 20px 10px;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .adva-mcard-img {
+        margin-right: 0;
+        width: 57px !important;
+        margin-bottom: 15px;
+    }
+
+    .video-s-h2 {
+        padding: 0;
+        font-size: 34px;
+    }
+
+    .pricing-scnt-in {
+        flex-wrap: wrap;
+        padding-right: 0;
+    }
+
+    .prici-scnt {
+        margin: 0;
+        padding: 40px 15px;
+        width: 100%;
+    }
+
+    .pric-scnt {
+        width: 100%;
+        padding: 40px 15px;
+        margin: 20px 0 0;
+    }
+
+    .prici-card-angle {
+        width: 100%;
+        padding-top: 0;
+        display: flex;
+        justify-content: center;
+        padding-bottom: 10px;
+    }
+
+    .bc-contact-in,
+    .bc-call-in {
+        width: 100%;
+        justify-content: center;
+        padding: 0;
+    }
+
+    .bc-call-in {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding-top: 20px
+    }
+
+    .bc-call-fig-c,
+    .boccall-fig-c {
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+
+    .b-offer-cc-in {
+        padding: 0;
+        text-align: center;
+    }
+
+    .boffer-cbtn {
+        justify-content: center;
+    }
+
+    .bcbtn-cus {
+        width: auto;
+    }
+
+    .boffer-ccall {
+        padding: 20px 0 40px;
+        text-align: center;
+    }
+
+    .boffer-img {
+        padding: 40px 0;
+    }
+
+    .foot-cont-info-in {
+        padding-bottom: 40px;
+    }
+
+    .foot-cnt-col1,
+    .foot-cnt-col2,
+    .foot-cnt-col3,
+    .foot-cnt-col4 {
+        width: 100%;
+        min-height: inherit;
+        margin: 0;
+    }
+
+
+    .blog-card-container,
+    .contact-form-container {
+        width: 100%;
+        padding-right: 0;
+    }
+
+    .blog-ccpl-img-cont {
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 15px;
+        height: auto;
+        padding-bottom: 25px;
+    }
+
+    .blog-dairyentry,
+    .blog-detail-container,
+    .contact-info-container {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 425px) {
+
+    .slider-img {
+        height: 197px;
+    }
+
+    .esc-imback {
+        width: 380px;
+    }
+
+    .esc-img-cont {
+        top: -14%;
+        left: 0;
+    }
+
+    .choosec-tcont-fc {
+        top: 20px;
+        left: 40px;
+    }
+
+    .bfsec-cimage {
+        width: 280px;
+    }
+
+    .bfsec-cin-img {
+        text-align: left;
+    }
+
+    .advan_img {
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+
+    .hamburger {
+        right: 15px;
+    }
+
+    .esc-imback,
+    .chtnt-fimg,
+    .chtnt-fimg2 {
+        width: 270px;
+    }
+
+    .esc-img-cont {
+        top: -18%;
+    }
+
+    .choosec-tcont-fc {
+        top: 10px;
+        left: 25px;
+    }
+
+    .bfsec-cimage {
+        width: 200px;
+    }
+
+    .bfsec-cn-img {
+        margin-top: -160px;
+    }
+
+    .blog-de-head {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    .sparkle-container {
+        overflow-x: hidden;
+    }
+}
